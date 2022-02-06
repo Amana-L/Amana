@@ -23,6 +23,12 @@
 </head>
 <body>
 
+body {
+  background-image: url("https://github.com/Amana-L/Amana/blob/main/css/mono.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
