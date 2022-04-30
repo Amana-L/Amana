@@ -1,1 +1,2 @@
-# amana.github.io
+# Amana's Github
+Welcome!
